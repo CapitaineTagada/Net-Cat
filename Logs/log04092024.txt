@@ -1,0 +1,64 @@
+[2024-09-04 11:56:18] Dylan has joined the chat
+[2024-09-04 11:56:18] New connection from: 172.20.10.6:51788 Dylan 
+[2024-09-04 11:56:21] Dylan: Salut
+[2024-09-04 11:56:21] alex has joined the chat
+[2024-09-04 11:56:21] New connection from: 172.20.10.4:40556 alex 
+[2024-09-04 11:56:22] Dylan: salut
+[2024-09-04 11:56:23] Dylan: salut
+[2024-09-04 11:56:24] alex: hoj
+[2024-09-04 11:56:25] alex: fkjg
+[2024-09-04 11:56:26] alex: fkqsfhs
+[2024-09-04 11:56:27] Dylan: salut
+[2024-09-04 11:56:27] alex: qkfkhqkdfhhqdsjf
+[2024-09-04 11:56:27] Dylan: salut
+[2024-09-04 11:56:28] alex: qslf,qksdgjlbsdljgljsdg
+[2024-09-04 11:56:28] Dylan: salua
+[2024-09-04 11:56:29] alex: qdsfgskgnljNDQg
+[2024-09-04 11:56:29] alex: DFùQHMLDH
+[2024-09-04 11:56:29] Dylan: slskf
+[2024-09-04 11:56:30] alex: [6~QDFMHB
+[2024-09-04 11:56:30] alex: MKDùHGD
+[2024-09-04 11:56:30] Dylan: dkf
+[2024-09-04 11:56:30] alex: QLHMQKDGMHLQ
+[2024-09-04 11:56:31] alex: ùDLKHLQDM
+[2024-09-04 11:56:31] Dylan: kdkfk
+[2024-09-04 11:56:32] Dylan: fkfkf
+[2024-09-04 11:56:32] Dylan: fkfk
+[2024-09-04 11:56:34] alex: HKQHMKQLDGHLQK,MQJDù
+[2024-09-04 11:56:36] alex has left the chat
+[2024-09-04 11:56:36] from [172.20.10.4:40556] User disconnected: alex
+[2024-09-04 11:56:37] Dylan has left the chat
+[2024-09-04 11:56:37] from [172.20.10.6:51788] User disconnected: Dylan
+[2024-09-04 13:06:04] Alek has joined the chat
+[2024-09-04 13:06:04] New connection from: 127.0.0.1:42248 Alek 
+[2024-09-04 13:06:09] joe has joined the chat
+[2024-09-04 13:06:09] New connection from: 127.0.0.1:53506 joe 
+[2024-09-04 13:06:20] Alek: /rename
+[2024-09-04 13:06:39] fuck: hello
+[2024-09-04 13:09:57] joe has joined the chat
+[2024-09-04 13:09:57] New connection from: 127.0.0.1:56662 joe 
+[2024-09-04 13:10:02] hey has joined the chat
+[2024-09-04 13:10:02] New connection from: 127.0.0.1:56678 hey 
+[2024-09-04 13:10:08] joe: hello
+[2024-09-04 13:10:11] hey: hello
+[2024-09-04 13:10:16] hey: /rename
+[2024-09-04 13:11:43] joe has left the chat
+[2024-09-04 13:11:43] from [127.0.0.1:56662] User disconnected: joe
+[2024-09-04 13:11:47] heeeeeee has left the chat
+[2024-09-04 13:11:47] from [127.0.0.1:56678] User disconnected: heeeeeee
+[2024-09-04 13:11:59] hello has joined the chat
+[2024-09-04 13:11:59] New connection from: 127.0.0.1:45842 hello 
+[2024-09-04 13:12:01] hello: fqssfq
+[2024-09-04 13:12:08] fjfgnjgs has joined the chat
+[2024-09-04 13:12:08] New connection from: 127.0.0.1:48236 fjfgnjgs 
+[2024-09-04 13:12:14] hello: /rename/rename
+[2024-09-04 13:14:18] fjfgnjgs has left the chat
+[2024-09-04 13:14:18] from [127.0.0.1:48236] User disconnected: fjfgnjgs
+[2024-09-04 13:14:22] chunk has left the chat
+[2024-09-04 13:14:22] from [127.0.0.1:45842] User disconnected: chunk
+[2024-09-04 13:14:36] cqsmknvn has joined the chat
+[2024-09-04 13:14:36] New connection from: 127.0.0.1:55942 cqsmknvn 
+[2024-09-04 13:14:48] qkhlsghqhlgs has joined the chat
+[2024-09-04 13:14:48] New connection from: 127.0.0.1:47618 qkhlsghqhlgs 
+[2024-09-04 13:14:50] qkhlsghqhlgs: qdgnjksdgfsjd
+[2024-09-04 13:15:07] [cqsmknvn] changed his name to : [Chunk]
