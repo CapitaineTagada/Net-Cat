@@ -1,0 +1,17 @@
+[2024-09-05 09:11:38] New connection from: 127.0.0.1:38938 Alex 
+[2024-09-05 09:12:04] sam has joined the chat
+[2024-09-05 09:12:04] New connection from: 127.0.0.1:40256 sam 
+[2024-09-05 09:12:09] sam: hello
+[2024-09-05 09:12:16] Alex: hello
+[2024-09-05 09:12:30] joe has joined the chat
+[2024-09-05 09:12:30] New connection from: 127.0.0.1:35804 joe 
+[2024-09-05 09:12:37] joe has left the chat
+[2024-09-05 09:12:37] from [127.0.0.1:35804] User disconnected: joe
+[2024-09-05 09:13:15] joe has joined the chat
+[2024-09-05 09:13:15] New connection from: 127.0.0.1:60142 joe 
+[2024-09-05 09:13:58] joe has left the chat
+[2024-09-05 09:13:58] from [127.0.0.1:60142] User disconnected: joe
+[2024-09-05 09:14:02] sam has left the chat
+[2024-09-05 09:14:02] from [127.0.0.1:40256] User disconnected: sam
+[2024-09-05 09:14:04] Alex has left the chat
+[2024-09-05 09:14:04] from [127.0.0.1:38938] User disconnected: Alex
