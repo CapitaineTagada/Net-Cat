@@ -104,7 +104,7 @@ func handleConnection(conn net.Conn) {
 			// 6. Read the username from the client
 			if scanner.Scan() {
 				users[conn] = scanner.Text()
-				broadcastMessage(fmt.Sprintf("[%s] [%s] changed his name to : [%s]\n", time.Now().Format(time.DateTime), Lastname, users[conn]))	
+				broadcastMessage(fmt.Sprintf("[%s] [%s] changed his name to : [%s]\n", time.Now().Format(time.DateTime), Lastname, users[conn]))
 			}
 			continue
 		}
@@ -124,10 +124,10 @@ func handleConnection(conn net.Conn) {
 	defer file.Close()
 	defer func() {
 		// 9. Handle the disconnection
-		broadcastMessage("[" + time.Now().Format(time.DateTime) + "] " + users[conn] + " has left the chat\n") 
+		broadcastMessage("[" + time.Now().Format(time.DateTime) + "] " + users[conn] + " has left the chat\n")
 		logDisconnection(conn) // Log the disconnection
-		delete(users, conn)   // Remove the user from the map
-		conn.Close() 		// Close the connection
+		delete(users, conn)    // Remove the user from the map
+		conn.Close()           // Close the connection
 	}()
 }
 
