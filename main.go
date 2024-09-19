@@ -6,6 +6,7 @@ import (
 	"io"
 	"net"
 	"os"
+	"strconv"
 	"sync"
 	"time"
 )
@@ -37,9 +38,18 @@ func main() {
 	port := "8080"
 	host := "localhost"
 	// 1. Start the server on port 8080
-	if len(os.Args) > 1 {
+	if len(os.Args) == 2 {
+		port = os.Args[1]
+	}
+
+	if len(os.Args) == 3 {
 		port = os.Args[2]
 		host = os.Args[1]
+		_, err := strconv.Atoi(port)
+		if err != nil {
+			fmt.Println("[USAGE]: ./TCPChat $port")
+			return
+		}
 	}
 	listener, err := net.Listen("tcp4", host+":"+port)
 	if err != nil {
