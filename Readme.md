@@ -27,4 +27,6 @@ Only standard packages are used
 ## Authors:
 A. Joly
 
+M.Soumare
+
 S. Cointin

@@ -50,7 +50,7 @@ func main() {
 
 	fmt.Println("Server starting on port :" + port)
 	fmt.Printf("Welcome to the Lord of Pigeon Tchat :\n %s", LogoAscii)
-	// 2. Manege incoming connections
+	// 2. Manage incoming connections
 	for {
 		conn, err := listener.Accept()
 		if err != nil {
